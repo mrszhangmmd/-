@@ -1,0 +1,15 @@
+F:\demo4.5\BusSystem\BusSystem.Utility\bin\Debug\BusSystem.Utility.dll
+F:\demo4.5\BusSystem\BusSystem.Utility\bin\Debug\BusSystem.Utility.pdb
+F:\demo4.5\BusSystem\BusSystem.Utility\obj\Debug\BusSystem.Utility.dll
+F:\demo4.5\BusSystem\BusSystem.Utility\obj\Debug\BusSystem.Utility.pdb
+F:\demo4.5\BusSystem\BusSystem.Utility\obj\Debug\BusSystem.Utility.csprojResolveAssemblyReference.cache
+F:\demo4.6\BusSystem\BusSystem.Utility\bin\Debug\BusSystem.Utility.dll
+F:\demo4.6\BusSystem\BusSystem.Utility\bin\Debug\BusSystem.Utility.pdb
+F:\demo4.6\BusSystem\BusSystem.Utility\obj\Debug\BusSystem.Utility.dll
+F:\demo4.6\BusSystem\BusSystem.Utility\obj\Debug\BusSystem.Utility.pdb
+F:\demo4.6\BusSystem\BusSystem.Utility\obj\Debug\BusSystem.Utility.csprojResolveAssemblyReference.cache
+F:\汽车售票管理系统\BusSystem\BusSystem.Utility\bin\Debug\BusSystem.Utility.dll
+F:\汽车售票管理系统\BusSystem\BusSystem.Utility\bin\Debug\BusSystem.Utility.pdb
+F:\汽车售票管理系统\BusSystem\BusSystem.Utility\obj\Debug\BusSystem.Utility.csprojResolveAssemblyReference.cache
+F:\汽车售票管理系统\BusSystem\BusSystem.Utility\obj\Debug\BusSystem.Utility.dll
+F:\汽车售票管理系统\BusSystem\BusSystem.Utility\obj\Debug\BusSystem.Utility.pdb
