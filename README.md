@@ -1,2 +1,3 @@
-# BusSystem 
-it is a project for some busS=station to sale tickets online
+# 在线汽车售票系统（仿巴士管家）
+大三的时候的一次课程设计 其实老师的要求也就只是普通的增删查改即可，但是我作为一个完美主义者，总是要 尽肯能的优化，后来没优化好前台界面做的也比较粗糙
+
